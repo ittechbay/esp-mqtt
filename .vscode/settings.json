@@ -1,0 +1,10 @@
+{
+    "idf.adapterTargetName": "esp32c3",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-builtin.cfg"
+    ],
+    "idf.portWin": "COM4",
+    "files.associations": {
+        "publish_test0116": "c"
+    }
+}
